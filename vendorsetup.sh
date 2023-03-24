@@ -16,5 +16,5 @@
 # limitations under the License.
 #
 
-add_lunch_combo twrp_k61v1-userdebug
-add_lunch_combo twrp_k61v1-eng
+add_lunch_combo twrp_f22-userdebug
+add_lunch_combo twrp_f22-eng
